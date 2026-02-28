@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Project Alpha",
+    "description": "This is the first demo project on the dashboard."
+  },
+  {
+    "name": "Project Beta",
+    "description": "Second project, showcasing our dark theme UI."
+  },
+  {
+    "name": "Project Gamma",
+    "description": "A sample project to test the grid layout."
+  }
+]
