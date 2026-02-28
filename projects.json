@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Project One",
+    "description": "This is a demo project hosted on GitHub.",
+    "url": "https://github.com/milon16px-dot/WEBS"
+  },
+  {
+    "name": "Project Two",
+    "description": "Another example project with a simple description.",
+    "url": "https://github.com/milon16px-dot/WEBS/tree/main/other-project"
+  },
+  {
+    "name": "Project Three",
+    "description": "You can add as many projects as you want here.",
+    "url": "https://github.com/milon16px-dot/WEBS/tree/main/demo"
+  }
+]
